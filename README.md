@@ -7,7 +7,7 @@
 <p>Este projeto web tem como objeivo divulgar, facilitar e melhorar o trabalho para atrair mais clientes para redes de academias.</p></div>
 
 <h3>Paleta de cores</h3>
- <img src="https://github.com/Gigiovh/Gym/blob/main/img/palette.png" width="450px">
+ <img src="https://github.com/Gigiovh/Gym/blob/main/img/paleta%20do%20site.png" width="450px">
 <h3>Linguagens utilizadas</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
