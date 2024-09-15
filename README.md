@@ -1,10 +1,10 @@
 
-<h1 align="center">E-commerce para academia</h1>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/bc456b03-d0c3-48d4-b52b-e037f0a6da9a" width="200px">
-</div>
-<h2>🖥️ Sobre o projeto</h2>
-<p>Este projeto web tem como objeivo divulgar, facilitar e melhorar o trabalho para atrair mais clientes para redes de academias.</p>
+<img src="https://github.com/Gigiovh/Gym/blob/main/img/loho.png" width="200px">
+<h1 align="center">E-commerce para academia 💪</h1>
+
+
+<p>Este projeto web tem como objeivo divulgar, facilitar e melhorar o trabalho para atrair mais clientes para redes de academias.</p></div>
 <h3>Paleta de cores</h3>
  <img src="https://github.com/user-attachments/assets/46c21ed7-3c95-460d-8642-d263aacabb28" width="400px">
 <h3>Linguagens utilizadas</h3>
