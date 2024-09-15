@@ -6,7 +6,7 @@
 
 <p>Este projeto web tem como objeivo divulgar, facilitar e melhorar o trabalho para atrair mais clientes para redes de academias.</p></div>
 <h3>Paleta de cores</h3>
- <img src="https://github.com/user-attachments/assets/46c21ed7-3c95-460d-8642-d263aacabb28" width="400px">
+ <img src="https://github.com/Gigiovh/Gym/blob/main/img/palette.png" width="450px">
 <h3>Linguagens utilizadas</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php" />
@@ -15,9 +15,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/beaxx.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 1"/>
-      <br /><a href="https://github.com/beaxx"><b>Beatriz Oliveira</b></a>
-      <br /><small>Desenvolvedora</small>
+      <h4></h4>
     </td>
     <td align="center">
       <img src="https://github.com/Gigiovh.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 2"/>
