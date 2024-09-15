@@ -2,7 +2,7 @@
 COMO MUDAR OS ICONS
 FAZER O PHP E A PARTE DE LIGAÇÃO DA PÁGINA DE CONTATO.-->
 <?php
-  require_once 'conect.php';
+  require_once './php/conect.php';
 ?>
 
 <!DOCTYPE html>
